@@ -311,12 +311,10 @@ Successfully completed the **90 Days of DevOps** challenge by building hands-on 
 # 📊 GitHub Statistics
 
 
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bymalathi&theme=tokyonight"/>
-
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
+
 
 ---
 
