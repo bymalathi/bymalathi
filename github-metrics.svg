@@ -1467,7 +1467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bymalathi/flavorforge-azure-devsecops-capstone</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Enterprise Azure DevSecOps Capstone demonstrating a production-style CI/CD pipeline using Azure DevOps, Docker, Azure Container Registry (ACR), Azure Kubernetes Service (AKS), Kubernetes, SonarCloud, Trivy, and Azure Monitor.</div>
@@ -1677,7 +1677,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2026, 05:59:28 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2026, 17:50:57 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
